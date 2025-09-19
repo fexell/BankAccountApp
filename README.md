@@ -20,4 +20,7 @@ Clone the repository and run the program in your C# environment of choice (e.g.,
 
 ## OOP / Encapsulation
 ### OOP,
-or object oriented programming, is a way to structure your code, make code (like methods) reusable, keep the code organized, and more easily maintainable.
+or "object oriented programming", is a way to structure your code, make code (like methods) reusable, keep the code organized, and more easily maintainable.
+
+### Encapsulation,
+is all about exposing only what is necessary to be exposed. It ensures data (like internal state) is "hidden." 
