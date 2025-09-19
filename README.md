@@ -14,7 +14,7 @@ This project was created as part of a school assignment to practice fundamental 
 
 📊 View your current balance
 
-Getting Started
+## Getting Started
 
 Clone the repository and run the program in your C# environment of choice (e.g., Visual Studio). The app will guide you through the available options directly in the console.
 
