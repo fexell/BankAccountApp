@@ -17,3 +17,7 @@ This project was created as part of a school assignment to practice fundamental 
 Getting Started
 
 Clone the repository and run the program in your C# environment of choice (e.g., Visual Studio). The app will guide you through the available options directly in the console.
+
+## OOP / Encapsulation
+### OOP,
+or object oriented programming, is a way to structure your code, make code (like methods) reusable, keep the code organized, and more easily maintainable.
