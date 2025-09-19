@@ -1,12 +1,12 @@
-#Bank Account Console App
+# Bank Account Console App
 
 A simple console-based banking application written in C#. This project allows users to manage a virtual bank account through basic operations such as depositing, withdrawing, and viewing their current balance.
 
-##About
+## About
 
 This project was created as part of a school assignment to practice fundamental C# programming concepts, including classes, methods, and user interaction through the console.
 
-##Features
+## Features
 
 💰 Deposit money into your account
 
